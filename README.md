@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h0lycats
+- 👋 Hi, I’m @krotkovim
 - 👀 I’m interested in sport, music, PC games, coding
 - 🌱 I’m currently learning Java and English language
 - 💞️ I’m looking to collaborate on ... still thinking about it
